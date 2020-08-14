@@ -1,7 +1,8 @@
-#custom file Downloader
+# custom file Downloader
+
 basic chrome extension to move downloaded file to sub directory from downloads directory named with website name
 
-##how to install 
+## how to install 
 
 - clone files
 - open [chrome://extensions/](chrome://extensions/) *open in chrome* :fearful:

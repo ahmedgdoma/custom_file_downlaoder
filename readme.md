@@ -5,7 +5,7 @@ basic chrome extension to move downloaded file to sub directory from downloads d
 ## how to install 
 
 - clone files
-- open [chrome://extensions](chrome://extensions) **open in chrome** :fearful:
+- open [chrome://extensions](chrome://extensions) **make sure it's chrome** :fearful:
 - load unpacked
 - select project directory
 

@@ -1,4 +1,4 @@
-###custom file Downloader
+#custom file Downloader
 basic chrome extension to move downloaded file to sub directory from downloads directory named with website name
 ##how to install 
 
